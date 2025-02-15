@@ -13,7 +13,7 @@ Additional datasets will be continuously updated as new ones become available.
 
 | Dataset | Num. sub | Num. ch | Num. class | Devices | Link(download) | Link(ref) |
 |----------|------|------|------|------|------|------|
-| Stieger_2021 | 62 | 3 | Neuroscan |[Link](https://doi.org/10.1038/s41597-021-00883-1) | [Link](https://doi.org/10.1038/s41597-021-00883-1)
+| Stieger_2021 | 62 | 64 |  3 | Neuroscan |[Link](https://doi.org/10.1038/s41597-021-00883-1) | [Link](https://doi.org/10.1038/s41597-021-00883-1)
 | Zhou_2020 | 25 | 60 | 4 | Neuroscan | [Link](https://dx.doi.org/10.21227/f1c7-7x89) | [Link](https://dx.doi.org/10.21227/f1c7-7x89)
 | Wu_2020 |  |  |  |  |  |
 | Ma(2020) |  |  |  |  |  |
