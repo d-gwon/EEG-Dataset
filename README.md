@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f7e30eed-b291-430f-902b-ae1b29ede32a)![image](https://github.com/user-attachments/assets/76c3f0ab-9ece-4b95-9d9f-d64d2ea72fe0)# EEG Dataset Links
+# EEG Dataset Links
 
 ## 📂 Dataset List
 
