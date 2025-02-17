@@ -1,4 +1,4 @@
-# EEG Dataset Links
+![image](https://github.com/user-attachments/assets/f7e30eed-b291-430f-902b-ae1b29ede32a)![image](https://github.com/user-attachments/assets/76c3f0ab-9ece-4b95-9d9f-d64d2ea72fe0)# EEG Dataset Links
 
 ## 📂 Dataset List
 
@@ -15,22 +15,23 @@ Additional datasets will be continuously updated as new ones become available.
 |----------|------|------|------|------|------|------|
 | Stieger_2021 | 62 | 64 |  3 | Neuroscan |[Link](https://doi.org/10.1038/s41597-021-00883-1) | [Link](https://doi.org/10.1038/s41597-021-00883-1)
 | Zhou_2020 | 25 | 60 | 4 | Neuroscan | [Link](https://dx.doi.org/10.21227/f1c7-7x89) | [Link](https://dx.doi.org/10.21227/f1c7-7x89)
-| Wu_2020 |  |  |  |  |  |
-| Ma(2020) |  |  |  |  |  |
-| Lee(2020) |   |  |  |  |  |
-| Kim(2018) |   |  |  |  |  |
-| Cho(2017) |   |  |  |  |  |
-| Shin(2017) |  |  |  |  |  |
-| Lee(2016) |  |  |  |  |  |
-| Zhou(2016) |  |  |  |  |  |
-| Steyrl(2016) |  |  |  |  |  |
-| Yi(2014) |  |  |  |  |  |
-| Ahn_2013 |  |  |  |  |  |
-| Faller_2012 |  |  |  |  |  |
-| Tangermann_2012 |  |  |  |  |  |
-| Grosse_2009 |  |  |  |  |  |
-| Leeb_2007 |  |  |  |  |  |
-| Schalk_2000 |  |  |  |  |  |
+| Wu_2020 | 6 | 122 | 4 | Neuroscan | [Link](https://dx.doi.org/10.21227/j7rq-2p11) | [Link](https://dx.doi.org/10.21227/j7rq-2p11) 
+| Ma_2020 | 25 | 64 | 2 | Neuroscan | [Link](https://doi.org/10.6084/m9.figshare.12278444) |[Link](https://doi.org/10.1038/s41597-020-0535-2)
+| Lee_2019 | 54 | 62 | 2 | BrainProduct | [Link](https://doi.org/10.5524/100542) |[Link](https://doi.org/10.1093/gigascience/giz002)
+| Kim_2018 | 12 | 30 | 3 | BrainProduct |  |[Link](https://doi.org/10.1109/TNSRE.2016.2597854)
+| Cho_2017 | 15 | 64 | 2 | Biosemi |  |[Link](https://doi.org/10.1093/gigascience/gix034)
+| Shin_2017 | 29 | 30 | 2 | BrainProduct |  |[Link](https://doi.org/10.1109/TNSRE.2016.2628057)
+| Lee_2016 | 52 | 70 |  | BrainProduct |  | [Link](https://doi.org/10.1109/SMC.2016.7844513)
+| Zhou_2016 | 4 | 14 | 3 |  |  |[Link](https://doi.org/10.1371/journal.pone.0162657)
+| Steyrl_2016 | 9 | 15 | 2 | g.tec |  |[Link](https://doi.org/10.1515/bmt-2014-0117)
+| Yi_2014 | 10 | 64 | 6 | Neuroscan |  |[Link](https://doi.org/10.1371/journal.pone.0114853)
+| Ahn_2013 | 10 | 19 | 2 | Biosemi, BrainProduct |  |[Link](https://doi.org/10.3389/fnhum.2013.00848)
+| Faller_2012 | 12 | 13 | 2 | g.tec |  |[Link](https://doi.org/10.1109/TNSRE.2012.2189584)
+| Tangermann_2012 | 9 | 22 | 4 |  |  | [Link](https://doi.org/10.3389/fnins.2012.00055)
+| Grosse_2009 | 10 | 128 | 2 | BrainProduct |  | [Link](https://doi.org/10.1109/TBME.2008.2009768)
+| Leeb_2007 | 9 | 3 | 2 | g.tec | [Link](https://www.bbci.de/competition/iv/#datasets) | [Link](https://doi.org/10.1109/TNSRE.2007.906956)
+| Schalk_2000 | 109 | 64 | 4 |  | [Link](https://physionet.org/content/eegmmidb/1.0.0/
+) | [Link](https://doi.org/10.1161/01.cir.101.23.e215)
 
 
 ### 2. Public Motor Execution Datasets
