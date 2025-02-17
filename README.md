@@ -30,8 +30,7 @@ Additional datasets will be continuously updated as new ones become available.
 | Tangermann_2012 | 9 | 22 | 4 |  |  | [Link](https://doi.org/10.3389/fnins.2012.00055)
 | Grosse_2009 | 10 | 128 | 2 | BrainProduct |  | [Link](https://doi.org/10.1109/TBME.2008.2009768)
 | Leeb_2007 | 9 | 3 | 2 | g.tec | [Link](https://www.bbci.de/competition/iv/#datasets) | [Link](https://doi.org/10.1109/TNSRE.2007.906956)
-| Schalk_2000 | 109 | 64 | 4 |  | [Link](https://physionet.org/content/eegmmidb/1.0.0/
-) | [Link](https://doi.org/10.1161/01.cir.101.23.e215)
+| Schalk_2000 | 109 | 64 | 4 |  | [Link](https://physionet.org/content/eegmmidb/1.0.0/) | [Link](https://doi.org/10.1161/01.cir.101.23.e215)
 
 
 ### 2. Public Motor Execution Datasets
